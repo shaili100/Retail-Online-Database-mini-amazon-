@@ -1,5 +1,5 @@
 # Retail-Online-Database-mini-amazon-
-# Retail Store Database – SQL Projec
+# SQL Project
 
 This project demonstrates a relational database design for a retail store and complex SQL JOIN queries to fetch complete order, product, and payment details.
 
